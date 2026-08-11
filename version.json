@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.7",
-    "download_url":  "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.7/PokeStock-Alerts-v0.3.7-Windows.zip",
-    "changelog":  "Added an About tab with a software overview, official GitHub link, and complete release history for the 0.3.x series.",
-    "sha256":  "847305b0c48cca9f7497523a27d62d88476b4d4d858c43e16d5536a334533bca"
+    "version":  "0.3.8",
+    "download_url":  "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.8/PokeStock-Alerts-v0.3.8-Windows.zip",
+    "changelog":  "Added legacy Telekom Germany and Vodafone Germany carrier options with setup guidance, and officially added the Monitor tab Check Interval control with its usable range.",
+    "sha256":  "fabd3a0c43d98ff9439fc5e81188e2399482b3c4c9e6cb6023d06a7fc0fbe234"
 }
