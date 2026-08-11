@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.6",
-    "download_url":  "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.6/PokeStock-Alerts-v0.3.6-Windows.zip",
-    "changelog":  "Added secure one-click automatic updates with installation and restart, a PDF user guide, and a smaller optimized banner.",
-    "sha256":  "26f81e9694738384d341c92073a951de82e7f52a5969f2bcd48c016bd03ed3df"
+    "version":  "0.3.7",
+    "download_url":  "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.7/PokeStock-Alerts-v0.3.7-Windows.zip",
+    "changelog":  "Added an About tab with a software overview, official GitHub link, and complete release history for the 0.3.x series.",
+    "sha256":  "847305b0c48cca9f7497523a27d62d88476b4d4d858c43e16d5536a334533bca"
 }
