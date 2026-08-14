@@ -1,6 +1,6 @@
 {
-    "version":  "0.3.8",
-    "download_url":  "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.8/PokeStock-Alerts-v0.3.8-Windows.zip",
-    "changelog":  "Added German carrier options, the Monitor tab Check Interval control, complete About-tab histories, and smoother paced window and banner resizing.",
-    "sha256":  "5313dc1e1f9c90ff2b65a46c8fd7ce5ec99198f4ef0cbc0753c0371036a79cbf"
+  "version": "0.3.9",
+  "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.9/PokeStock-Alerts-v0.3.9-Windows.zip",
+  "changelog": "Added privacy-safe diagnostic logging, automatic log rotation, shareable support-report ZIP files, and a dedicated diagnostics folder.",
+  "sha256": "55cec36e7563f5357b4b6a77170f64cbd0b95a655c0402e82ef0431337b56091"
 }
