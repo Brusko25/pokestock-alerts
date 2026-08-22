@@ -1,6 +1,6 @@
 {
-  "version": "0.3.9",
-  "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.9/PokeStock-Alerts-v0.3.9-Windows.zip",
-  "changelog": "Added privacy-safe diagnostic logging, automatic log rotation, shareable support-report ZIP files, and a dedicated diagnostics folder.",
-  "sha256": "35e982ca1e9330a1684e8574df1ee9f9e97785a44e99d5a507374597c45858e7"
+  "version": "0.3.10",
+  "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.10/PokeStock-Alerts-v0.3.10-Windows.zip",
+  "changelog": "Added the new PokeStock Alerts icon and improved text delivery for all carriers, including corrected Mint Mobile routing and clean plain-text messages.",
+  "sha256": "11f48c9a57a6b7261d0639a098bd4fbf91d32f996fa0ea32ebed81f769fba8da"
 }
