@@ -1,6 +1,6 @@
 {
-  "version": "0.3.10",
-  "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.10/PokeStock-Alerts-v0.3.10-Windows.zip",
-  "changelog": "Added the new PokeStock Alerts icon and improved text delivery for all carriers, including corrected Mint Mobile routing and clean plain-text messages.",
-  "sha256": "11f48c9a57a6b7261d0639a098bd4fbf91d32f996fa0ea32ebed81f769fba8da"
+  "version": "0.3.11",
+  "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.11/PokeStock-Alerts-v0.3.11-Windows.zip",
+  "changelog": "Stock alerts now use the monitored product name as the subject and include a clickable purchasing link; test alerts include the official GitHub link.",
+  "sha256": "ce9161698925d25bdf791121e02941e03f44d6604e1e527f29998549da7cfa1f"
 }
