@@ -1,6 +1,6 @@
 {
   "version": "0.3.11",
   "download_url": "https://github.com/Brusko25/pokestock-alerts/releases/download/v0.3.11/PokeStock-Alerts-v0.3.11-Windows.zip",
-  "changelog": "Stock alerts now use the monitored product name as the subject and include a clickable purchasing link; test alerts include the official GitHub link.",
-  "sha256": "ce9161698925d25bdf791121e02941e03f44d6604e1e527f29998549da7cfa1f"
+  "changelog": "Stock alerts now use the monitored product name as the subject and include a clickable purchasing link; the test message is formatted once and includes the official GitHub link.",
+  "sha256": "5e6d9cde58e89b0f08e29ab148bd374b118bdcbce33d4d55dbfd16a1134f0ac6"
 }
